@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🌱 I'm currently working on<br><br>🚀 Building full-stack web apps and a job board project.<br><br>🤝 I'm looking to collaborate on<br><br>💡 Open-source tools that help developers and learners.<br><br>🛠️ I'm looking for help with<br><br>⚡ Improving responsive design and best coding practices.<br><br>📚 I'm currently learning<br><br>💻 Full Stack Development and sharpening my JavaScript skills.<br><br>💬 Ask me about<br><br>🌍 Web development, GitHub workflows, and side-project strategies.<br><br>🎉 Fun fact<br><br>☕ I write cleaner code after my second cup of coffee.
+🌱 I'm currently working on<br><br>🚀 Building full-stack web apps.<br><br>🤝 I'm looking to collaborate on<br><br>💡 Open-source tools that help developers and learners.<br><br>🛠️ I'm looking for help with<br><br>⚡ Improving responsive design and best coding practices.<br><br>📚 I'm currently learning<br><br>💻 Full Stack Development and sharpening my JavaScript skills.<br><br>💬 Ask me about<br><br>🌍 Web development, GitHub workflows, and side-project strategies.<br><br>🎉 Fun fact<br><br>☕ I write cleaner code after my second cup of coffee.
 
 
 ## 🌐 Socials:
